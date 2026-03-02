@@ -1,0 +1,8 @@
+{
+  "name": "EduAgent: AI Student Submission & Evaluation Platform",
+  "description": "An end-to-end academic platform for assignment management, AI-powered rubric grading, feedback generation, and performance analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
